@@ -1,6 +1,6 @@
 <h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Vinayak Agrawal!</h1>
 
-### I code for FUN :computer:
+### Programming tools and languages :computer:
 
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
